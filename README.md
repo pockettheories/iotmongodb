@@ -4,7 +4,7 @@ Provides a demo of IoT insert
 
 ## Instructions
 
-(1) Run mongod on localhost
+(1) Run mongod on localhost (create a directory, and execute this within the new directory)
 ```
 mongod --dbpath .
 ```
