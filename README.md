@@ -25,8 +25,8 @@ cd iotmongodb
 ### Without a local MongoDB instance
 
 ```
-git clone https://github.com/pockettheories/countmongodb.git
-cd countmongodb
+git clone https://github.com/pockettheories/iotmongodb.git
+cd iotmongodb
 docker-compose up
-docker logs approxmongo-app-1
+docker logs iotmongodb-app-1
 ```
