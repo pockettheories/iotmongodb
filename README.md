@@ -6,7 +6,7 @@ Provides a demo of IoT insert
 
 (1) Run mongod on localhost
 ```
-mongod --dbpath . --logpath ./mongod.log
+mongod --dbpath .
 ```
 
 (2) Execute: 
