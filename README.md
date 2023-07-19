@@ -27,6 +27,6 @@ cd iotmongodb
 ```
 git clone https://github.com/pockettheories/iotmongodb.git
 cd iotmongodb
-docker-compose up
+docker-compose up -d
 docker logs iotmongodb-app-1
 ```
