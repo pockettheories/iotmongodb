@@ -22,6 +22,8 @@ cd iotmongodb
 ./build.sh && ./runme.sh
 ```
 
+Note: Add the "-e demomode=advanced" parameter to get a more complex document structure and queries.
+
 ### Without a local MongoDB instance
 
 ```
